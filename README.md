@@ -22,15 +22,15 @@ This technologies and tools are part of my daily work:
 ### Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [ferdotdev/fundamentos-python](https://github.com/ferdotdev/fundamentos-python)<br>
-2. ⬆️ Pushed undefined commit(s) to [ferdotdev/LinuxWizards](https://github.com/ferdotdev/LinuxWizards)<br>
-3. ⬆️ Pushed undefined commit(s) to [ferdotdev/fundamentos-python](https://github.com/ferdotdev/fundamentos-python)<br>
+1. ⬆️ Pushed undefined commit(s) to [ferdotdev/ferdotdev](https://github.com/ferdotdev/ferdotdev)<br>
+2. ⬆️ Pushed undefined commit(s) to [ferdotdev/fundamentos-python](https://github.com/ferdotdev/fundamentos-python)<br>
+3. ⬆️ Pushed undefined commit(s) to [ferdotdev/LinuxWizards](https://github.com/ferdotdev/LinuxWizards)<br>
 4. ⬆️ Pushed undefined commit(s) to [ferdotdev/fundamentos-python](https://github.com/ferdotdev/fundamentos-python)<br>
-5. ⬆️ Pushed undefined commit(s) to [ferdotdev/capCaptcha](https://github.com/ferdotdev/capCaptcha)<br>
+5. ⬆️ Pushed undefined commit(s) to [ferdotdev/fundamentos-python](https://github.com/ferdotdev/fundamentos-python)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, January 22nd, 2026, 12:20:00 PM
+Last Updated: Monday, January 26th, 2026, 12:19:28 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### 📊 Stats
